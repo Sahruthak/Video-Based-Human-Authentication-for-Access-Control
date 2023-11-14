@@ -1,7 +1,7 @@
 # Video-Based-Human-Authentication-for-Access-Control
 
 
-#Dynamic Desktop Application
+# Dynamic Desktop Application
 
 
 The Video based dynamic human authentication system authorizes
