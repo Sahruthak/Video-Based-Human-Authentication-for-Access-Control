@@ -1,4 +1,4 @@
-# Video-Based-Dynamic-Human-Authentication-for-Access-Control u
+# Video-Based-Dynamic-Human-Authentication-for-Access-Control using opencv and numpy
 
 # Dynamic Desktop Application
 
