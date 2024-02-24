@@ -11,3 +11,5 @@ trigger an alarm for added security. This system enhances access control
 and is applicable in various industries. LBPH algorithm ensures reliable
 authentication.
 
+
+
