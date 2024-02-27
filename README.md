@@ -1,4 +1,4 @@
-# Video-Based-Dynamic-Human-Authentication-for-Access-Control using opencv and numpy
+# Video-Based-Dynamic-Human-Authentication-for-Access-Control
 # Dynamic Desktop Application
 
 The Video based dynamic human authentication system authorizes
