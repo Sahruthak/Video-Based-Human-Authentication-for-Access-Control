@@ -2,7 +2,6 @@
 <h2> <i> Dynamic Desktop Application<i> </h2>
 
 
-
 The Video based dynamic human authentication system authorizes
 individuals via face recognition technology. It captures a video of each user,
 converts it into pictures, and creates a trained model for each user using
