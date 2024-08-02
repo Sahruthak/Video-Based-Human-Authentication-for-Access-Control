@@ -2,8 +2,6 @@ import cv2
 import os
 import faceDetect as fd
 import numpy as np
-
-
 face_detector = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 data_path='training-data'
 path='usernames/users.txt'
